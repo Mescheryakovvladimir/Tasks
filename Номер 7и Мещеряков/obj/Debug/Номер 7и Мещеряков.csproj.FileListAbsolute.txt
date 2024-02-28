@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Номер 7и Мещеряков\bin\Debug\Номер 7и Мещеряков.exe
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Номер 7и Мещеряков\bin\Debug\Номер 7и Мещеряков.pdb
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Номер 7и Мещеряков\obj\Debug\Номер 7и Мещеряков.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Номер 7и Мещеряков\obj\Debug\Номер 7и Мещеряков.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Номер 7и Мещеряков\obj\Debug\Номер 7и Мещеряков.exe
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Номер 7и Мещеряков\obj\Debug\Номер 7и Мещеряков.pdb

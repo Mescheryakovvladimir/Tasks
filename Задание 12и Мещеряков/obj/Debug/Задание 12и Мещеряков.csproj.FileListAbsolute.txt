@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Задание 12и Мещеряков\bin\Debug\Задание 12и Мещеряков.exe
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Задание 12и Мещеряков\bin\Debug\Задание 12и Мещеряков.pdb
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Задание 12и Мещеряков\obj\Debug\Задание 12и Мещеряков.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Задание 12и Мещеряков\obj\Debug\Задание 12и Мещеряков.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Задание 12и Мещеряков\obj\Debug\Задание 12и Мещеряков.exe
+C:\Users\User\Desktop\Учеба ТУУ-211\Програмированием\Задание 12и Мещеряков\obj\Debug\Задание 12и Мещеряков.pdb
